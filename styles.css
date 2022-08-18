@@ -1,0 +1,24 @@
+.dishes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    
+}
+#lasagna{
+    color: red;
+    
+}
+#musaka{
+    color: yellow;
+    
+}
+#pizza{
+    color: rgb(209, 76, 24);
+    
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    text-decoration: underline;
+    color: greenyellow;
+    
+}
